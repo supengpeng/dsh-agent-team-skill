@@ -31,4 +31,4 @@ cp -R skill-refs/. "$DSH_HOME/skill-refs/"
 
 ## 注意
 
-本仓库来自本机安装副本，含 `C:\Users\19059` 路径与 tianxun 模型清单；公开前请先脱敏。
+本仓库内容来自作者本机安装副本：`AGENTS.md` 与 `model-routing.md` 中的 `C:\Users\19059`、`tianxun` 模型清单属于作者环境，使用时替换成你自己的 `$DSH_HOME` 与 provider 配置。
